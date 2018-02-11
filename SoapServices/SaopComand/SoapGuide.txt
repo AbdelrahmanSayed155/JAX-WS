@@ -1,0 +1,22 @@
+for build Soap Service 
+install GlassFish Server
+Make Project Dynamic Web 
+
+
+
+for wizdle Soap
+using http://localhost:4848/common/index.jsf 
+and click to 
+
+
+
+
+in wsdl have alot of sections
+type= messages with throw network
+messages = objects 
+operation = function  
+
+
+
+schema 
+have info about every method as it name it type of it parameters it return types
